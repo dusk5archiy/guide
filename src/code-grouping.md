@@ -1,7 +1,4 @@
-# Package Organization
-
-A package is a container used to group related pieces of code into a single
-unit.
+# Code grouping
 
 Elements that share a common any of the following:
 
