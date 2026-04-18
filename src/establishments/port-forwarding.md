@@ -1,5 +1,7 @@
 # Windows Port Forwarding
 
+- Applies to: Windows
+
 ```bash
 netsh interface portproxy add v4tov4 listenaddress=0.0.0.0 listenport=windows_port connectaddress=wsl_addr connectport=wsl_port
 ```
